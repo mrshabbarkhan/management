@@ -1,13 +1,13 @@
 {
   "rewrites": [
     {
-      "source": "/api",
+      "source": "/",
       "destination": "https://document-management-1-8aya.onrender.com"
     }
   ],
   "headers": [
     {
-      "source": "/api",
+      "source": "/",
       "headers": [
         {
           "key": "Origin",
